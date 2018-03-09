@@ -10,7 +10,7 @@ You need to establish guidelines on how developers can use open source code, and
 2. [Compliance roles and responsibilities](#compliance-roles-and-responsibilities)
 3. [A simple policy for using open source code](#a-simple-policy-for-using-open-source-code)
 4. [Five-stage code review process](#5-stage-code-review-process)
-5. [What to do after v1.0](#what-to-do-after-v1-0)
+5. [What to do after v1.0](#what-to-do-after-v10)
 6. [Sample open source usage request form](#open-source-usage-request-form)
 7. [Final words](#final-words)
 8. [Architecture diagram template](#architecture-diagram-template)
